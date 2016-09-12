@@ -1,0 +1,145 @@
+file name : 1.bvh	keyframes: 0 46 76 107 138 169 201 254 	doubleStance: 0 254 	rightStance: 46 107 169 	leftStance: 76 138 201 
+file name : 10.bvh	keyframes: 0 39 67 96 128 186 	doubleStance: 0 186 	rightStance: 39 96 	leftStance: 67 128 
+file name : 11.bvh	keyframes: 0 35 68 100 130 176 	doubleStance: 0 176 	rightStance: 35 100 	leftStance: 68 130 
+file name : 116.bvh	keyframes: 0 43 89 129 	doubleStance: 0 129 	rightStance: 89 	leftStance: 43 
+file name : 117.bvh	keyframes: 0 33 75 123 	doubleStance: 0 123 	rightStance: 75 	leftStance: 33 
+file name : 118.bvh	keyframes: 0 32 72 118 	doubleStance: 0 118 	rightStance: 72 	leftStance: 32 
+file name : 119.bvh	keyframes: 0 29 68 120 	doubleStance: 0 120 	rightStance: 68 	leftStance: 29 
+file name : 12.bvh	keyframes: 0 30 62 91 122 152 	doubleStance: 0 152 	rightStance: 30 91 	leftStance: 62 122 
+file name : 120.bvh	keyframes: 0 38 74 119 	doubleStance: 0 119 	rightStance: 74 	leftStance: 38 
+file name : 121.bvh	keyframes: 0 25 65 117 	doubleStance: 0 117 	rightStance: 65 	leftStance: 25 
+file name : 122.bvh	keyframes: 0 25 64 107 	doubleStance: 0 107 	rightStance: 64 	leftStance: 25 
+file name : 123.bvh	keyframes: 0 25 62 103 	doubleStance: 0 103 	rightStance: 62 	leftStance: 25 
+file name : 124.bvh	keyframes: 0 27 63 102 	doubleStance: 0 102 	rightStance: 63 	leftStance: 27 
+file name : 125.bvh	keyframes: 0 30 67 119 	doubleStance: 0 119 	rightStance: 67 	leftStance: 30 
+file name : 126.bvh	keyframes: 0 25 60 104 	doubleStance: 0 104 	rightStance: 60 	leftStance: 25 
+file name : 127.bvh	keyframes: 0 24 59 110 	doubleStance: 0 110 	rightStance: 59 	leftStance: 24 
+file name : 128.bvh	keyframes: 0 41 71 116 	doubleStance: 0 116 	rightStance: 71 	leftStance: 41 
+file name : 129.bvh	keyframes: 0 31 66 112 	doubleStance: 0 112 	rightStance: 66 	leftStance: 31 
+file name : 13.bvh	keyframes: 0 44 76 106 143 223 	doubleStance: 0 223 	rightStance: 44 106 	leftStance: 76 143 
+file name : 130.bvh	keyframes: 0 29 64 102 	doubleStance: 0 102 	rightStance: 64 	leftStance: 29 
+file name : 131.bvh	keyframes: 0 27 63 108 	doubleStance: 0 108 	rightStance: 63 	leftStance: 27 
+file name : 132.bvh	keyframes: 0 32 68 107 	doubleStance: 0 107 	rightStance: 68 	leftStance: 32 
+file name : 133.bvh	keyframes: 0 23 59 97 	doubleStance: 0 97 	rightStance: 59 	leftStance: 23 
+file name : 134.bvh	keyframes: 0 42 81 115 155 	doubleStance: 0 155 	rightStance: 81 	leftStance: 42 115 
+file name : 135.bvh	keyframes: 0 33 70 102 	doubleStance: 0 102 	rightStance: 70 	leftStance: 33 
+file name : 136.bvh	keyframes: 0 32 68 99 135 173 	doubleStance: 0 173 	rightStance: 68 135 	leftStance: 32 99 
+file name : 137.bvh	keyframes: 0 40 81 119 160 205 	doubleStance: 0 205 	rightStance: 40 119 	leftStance: 81 160 
+file name : 138.bvh	keyframes: 0 38 85 129 172 209 	doubleStance: 0 209 	rightStance: 85 172 	leftStance: 38 129 
+file name : 139.bvh	keyframes: 0 34 68 99 134 192 	doubleStance: 0 192 	rightStance: 68 134 	leftStance: 34 99 
+file name : 14.bvh	keyframes: 0 22 56 88 121 155 217 	doubleStance: 0 217 	rightStance: 56 121 	leftStance: 22 88 155 
+file name : 140.bvh	keyframes: 0 37 81 119 154 186 	doubleStance: 0 186 	rightStance: 81 154 	leftStance: 37 119 
+file name : 141.bvh	keyframes: 0 31 63 94 122 154 192 	doubleStance: 0 192 	rightStance: 63 122 	leftStance: 31 94 154 
+file name : 142.bvh	keyframes: 0 40 79 116 142 	doubleStance: 0 142 	rightStance: 79 	leftStance: 40 116 
+file name : 143.bvh	keyframes: 0 40 75 98 	doubleStance: 0 98 	rightStance: 75 	leftStance: 40 
+file name : 144.bvh	keyframes: 0 37 72 110 139 	doubleStance: 0 139 	rightStance: 72 	leftStance: 37 110 
+file name : 145.bvh	keyframes: 0 33 69 95 	doubleStance: 0 95 	rightStance: 69 	leftStance: 33 
+file name : 146.bvh	keyframes: 0 27 59 93 	doubleStance: 0 93 	rightStance: 59 	leftStance: 27 
+file name : 147.bvh	keyframes: 0 33 65 108 141 	doubleStance: 0 141 	rightStance: 65 	leftStance: 33 108 
+file name : 148.bvh	keyframes: 0 41 75 115 139 	doubleStance: 0 139 	rightStance: 75 	leftStance: 41 115 
+file name : 149.bvh	keyframes: 0 31 64 97 	doubleStance: 0 97 	rightStance: 64 	leftStance: 31 
+file name : 15.bvh	keyframes: 0 45 78 108 144 191 	doubleStance: 0 191 	rightStance: 45 108 	leftStance: 78 144 
+file name : 150.bvh	keyframes: 0 47 84 109 	doubleStance: 0 109 	rightStance: 47 	leftStance: 84 
+file name : 151.bvh	keyframes: 0 30 63 86 	doubleStance: 0 86 	rightStance: 63 	leftStance: 30 
+file name : 152.bvh	keyframes: 0 20 54 77 	doubleStance: 0 77 	rightStance: 54 	leftStance: 20 
+file name : 154.bvh	keyframes: 0 31 62 89 	doubleStance: 0 89 	rightStance: 62 	leftStance: 31 
+file name : 155.bvh	keyframes: 0 33 69 102 136 184 	doubleStance: 0 184 	rightStance: 69 136 	leftStance: 33 102 
+file name : 156.bvh	keyframes: 0 32 69 103 140 188 	doubleStance: 0 188 	rightStance: 69 140 	leftStance: 32 103 
+file name : 157.bvh	keyframes: 0 31 66 104 141 182 	doubleStance: 0 182 	rightStance: 66 141 	leftStance: 31 104 
+file name : 158.bvh	keyframes: 0 28 67 99 132 172 	doubleStance: 0 172 	rightStance: 67 132 	leftStance: 28 99 
+file name : 159.bvh	keyframes: 0 30 68 107 	doubleStance: 0 107 	rightStance: 68 	leftStance: 30 
+file name : 16.bvh	keyframes: 0 58 87 116 147 219 	doubleStance: 0 219 	rightStance: 58 116 	leftStance: 87 147 
+file name : 160.bvh	keyframes: 0 27 68 112 	doubleStance: 0 112 	rightStance: 68 	leftStance: 27 
+file name : 161.bvh	keyframes: 0 42 85 121 	doubleStance: 0 121 	rightStance: 85 	leftStance: 42 
+file name : 162.bvh	keyframes: 0 36 73 156 201 247 	doubleStance: 0 247 	rightStance: 73 201 	leftStance: 36 156 
+file name : 163.bvh	keyframes: 0 46 77 110 140 172 218 	doubleStance: 0 218 	rightStance: 77 140 	leftStance: 46 110 172 
+file name : 164.bvh	keyframes: 0 28 60 90 125 160 	doubleStance: 0 160 	rightStance: 60 125 	leftStance: 28 90 
+file name : 165.bvh	keyframes: 0 33 61 93 121 153 179 	doubleStance: 0 179 	rightStance: 61 121 	leftStance: 33 93 153 
+file name : 166.bvh	keyframes: 0 40 72 102 129 158 189 	doubleStance: 0 189 	rightStance: 72 129 	leftStance: 40 102 158 
+file name : 167.bvh	keyframes: 0 35 65 95 123 153 186 	doubleStance: 0 186 	rightStance: 65 123 	leftStance: 35 95 153 
+file name : 168.bvh	keyframes: 0 32 64 94 128 158 	doubleStance: 0 158 	rightStance: 64 128 	leftStance: 32 94 
+file name : 169.bvh	keyframes: 0 37 67 97 126 156 184 	doubleStance: 0 184 	rightStance: 67 126 	leftStance: 37 97 156 
+file name : 17.bvh	keyframes: 0 29 58 86 116 154 	doubleStance: 0 154 	rightStance: 29 86 	leftStance: 58 116 
+file name : 18.bvh	keyframes: 0 39 68 98 129 170 	doubleStance: 0 170 	rightStance: 39 98 	leftStance: 68 129 
+file name : 19.bvh	keyframes: 0 45 77 106 136 206 	doubleStance: 0 206 	rightStance: 45 106 	leftStance: 77 136 
+file name : 2.bvh	keyframes: 0 22 54 83 112 141 176 220 	doubleStance: 0 220 	rightStance: 22 83 141 	leftStance: 54 112 176 
+file name : 20.bvh	keyframes: 0 28 62 93 125 179 	doubleStance: 0 179 	rightStance: 28 93 	leftStance: 62 125 
+file name : 21.bvh	keyframes: 0 46 80 112 144 181 	doubleStance: 0 181 	rightStance: 46 112 	leftStance: 80 144 
+file name : 22.bvh	keyframes: 0 39 67 98 130 174 	doubleStance: 0 174 	rightStance: 39 98 	leftStance: 67 130 
+file name : 23.bvh	keyframes: 0 33 70 102 136 167 207 259 	doubleStance: 0 259 	rightStance: 33 102 167 	leftStance: 70 136 207 
+file name : 24.bvh	keyframes: 0 84 118 148 178 208 245 305 	doubleStance: 0 305 	rightStance: 84 148 208 	leftStance: 118 178 245 
+file name : 25.bvh	keyframes: 0 90 126 156 186 216 245 290 	doubleStance: 0 290 	rightStance: 90 156 216 	leftStance: 126 186 245 
+file name : 26.bvh	keyframes: 0 40 72 100 129 158 190 214 	doubleStance: 0 214 	rightStance: 40 100 158 	leftStance: 72 129 190 
+file name : 27.bvh	keyframes: 0 32 64 92 121 150 182 222 	doubleStance: 0 222 	rightStance: 32 92 150 	leftStance: 64 121 182 
+file name : 28.bvh	keyframes: 0 56 87 116 146 176 216 243 	doubleStance: 0 243 	rightStance: 56 116 176 	leftStance: 87 146 216 
+file name : 29.bvh	keyframes: 0 24 54 84 112 142 220 	doubleStance: 0 220 	rightStance: 54 112 	leftStance: 24 84 142 
+file name : 3.bvh	keyframes: 0 48 77 105 135 165 197 239 	doubleStance: 0 239 	rightStance: 48 105 165 	leftStance: 77 135 197 
+file name : 30.bvh	keyframes: 0 36 74 103 130 161 190 	doubleStance: 0 190 	rightStance: 36 103 161 	leftStance: 74 130 
+file name : 31.bvh	keyframes: 0 32 70 102 135 165 204 270 	doubleStance: 0 270 	rightStance: 70 135 204 	leftStance: 32 102 165 
+file name : 32.bvh	keyframes: 0 31 65 94 122 152 188 226 	doubleStance: 0 226 	rightStance: 65 122 188 	leftStance: 31 94 152 
+file name : 33.bvh	keyframes: 0 43 74 107 139 170 206 273 	doubleStance: 0 273 	rightStance: 74 139 206 	leftStance: 43 107 170 
+file name : 34.bvh	keyframes: 0 105 140 171 203 234 267 318 	doubleStance: 0 318 	rightStance: 105 171 234 	leftStance: 140 203 267 
+file name : 35.bvh	keyframes: 0 32 67 98 135 184 	doubleStance: 0 184 	rightStance: 32 98 	leftStance: 67 135 
+file name : 36.bvh	keyframes: 0 54 90 121 155 210 	doubleStance: 0 210 	rightStance: 54 121 	leftStance: 90 155 
+file name : 37.bvh	keyframes: 0 33 66 94 128 170 	doubleStance: 0 170 	rightStance: 33 94 	leftStance: 66 128 
+file name : 38.bvh	keyframes: 0 38 71 102 135 188 	doubleStance: 0 188 	rightStance: 38 102 	leftStance: 71 135 
+file name : 39.bvh	keyframes: 0 47 80 112 147 193 	doubleStance: 0 193 	rightStance: 47 112 	leftStance: 80 147 
+file name : 4.bvh	keyframes: 0 45 74 102 132 162 194 234 	doubleStance: 0 234 	rightStance: 45 102 162 	leftStance: 74 132 194 
+file name : 40.bvh	keyframes: 0 48 82 111 143 186 	doubleStance: 0 186 	rightStance: 48 111 	leftStance: 82 143 
+file name : 41.bvh	keyframes: 0 32 67 98 132 185 	doubleStance: 0 185 	rightStance: 32 98 	leftStance: 67 132 
+file name : 42.bvh	keyframes: 0 33 67 100 132 160 221 	doubleStance: 0 221 	rightStance: 67 132 	leftStance: 33 100 160 
+file name : 43.bvh	keyframes: 0 53 86 117 148 203 	doubleStance: 0 203 	rightStance: 53 117 	leftStance: 86 148 
+file name : 44.bvh	keyframes: 0 36 70 102 137 182 	doubleStance: 0 182 	rightStance: 36 102 	leftStance: 70 137 
+file name : 45.bvh	keyframes: 0 31 66 98 133 182 	doubleStance: 0 182 	rightStance: 31 98 	leftStance: 66 133 
+file name : 46.bvh	keyframes: 0 57 91 123 156 210 	doubleStance: 0 210 	rightStance: 57 123 	leftStance: 91 156 
+file name : 47.bvh	keyframes: 0 37 69 99 129 174 	doubleStance: 0 174 	rightStance: 37 99 	leftStance: 69 129 
+file name : 48.bvh	keyframes: 0 30 62 91 123 175 	doubleStance: 0 175 	rightStance: 30 91 	leftStance: 62 123 
+file name : 49.bvh	keyframes: 0 28 59 87 117 159 	doubleStance: 0 159 	rightStance: 28 87 	leftStance: 59 117 
+file name : 5.bvh	keyframes: 0 72 105 133 163 194 228 275 	doubleStance: 0 275 	rightStance: 72 133 194 	leftStance: 105 163 228 
+file name : 50.bvh	keyframes: 0 39 71 99 131 175 	doubleStance: 0 175 	rightStance: 39 99 	leftStance: 71 131 
+file name : 51.bvh	keyframes: 0 34 66 94 123 167 	doubleStance: 0 167 	rightStance: 34 94 	leftStance: 66 123 
+file name : 52.bvh	keyframes: 0 36 68 95 124 170 	doubleStance: 0 170 	rightStance: 36 95 	leftStance: 68 124 
+file name : 53.bvh	keyframes: 0 32 66 96 131 195 	doubleStance: 0 195 	rightStance: 32 96 	leftStance: 66 131 
+file name : 54.bvh	keyframes: 0 43 74 104 137 194 	doubleStance: 0 194 	rightStance: 43 104 	leftStance: 74 137 
+file name : 55.bvh	keyframes: 0 34 67 96 125 164 	doubleStance: 0 164 	rightStance: 34 96 	leftStance: 67 125 
+file name : 56.bvh	keyframes: 0 29 63 92 124 173 	doubleStance: 0 173 	rightStance: 29 92 	leftStance: 63 124 
+file name : 57.bvh	keyframes: 0 70 143 187 	doubleStance: 0 187 	rightStance: 143 	leftStance: 70 
+file name : 58.bvh	keyframes: 0 35 87 153 	doubleStance: 0 153 	rightStance: 35 	leftStance: 87 
+file name : 59.bvh	keyframes: 0 49 95 	doubleStance: 0 95 	rightStance: 	leftStance: 49 
+file name : 6.bvh	keyframes: 0 43 79 108 138 167 198 240 	doubleStance: 0 240 	rightStance: 43 108 167 	leftStance: 79 138 198 
+file name : 60.bvh	keyframes: 0 42 85 149 	doubleStance: 0 149 	rightStance: 42 	leftStance: 85 
+file name : 61.bvh	keyframes: 0 65 112 178 	doubleStance: 0 178 	rightStance: 112 	leftStance: 65 
+file name : 62.bvh	keyframes: 0 63 107 197 	doubleStance: 0 197 	rightStance: 107 	leftStance: 63 
+file name : 63.bvh	keyframes: 0 38 93 164 	doubleStance: 0 164 	rightStance: 38 	leftStance: 93 
+file name : 64.bvh	keyframes: 0 37 75 117 	doubleStance: 0 117 	rightStance: 75 	leftStance: 37 
+file name : 65.bvh	keyframes: 0 42 82 124 	doubleStance: 0 124 	rightStance: 82 	leftStance: 42 
+file name : 66.bvh	keyframes: 0 26 65 106 	doubleStance: 0 106 	rightStance: 65 	leftStance: 26 
+file name : 67.bvh	keyframes: 0 36 68 113 	doubleStance: 0 113 	rightStance: 68 	leftStance: 36 
+file name : 68.bvh	keyframes: 0 44 81 118 	doubleStance: 0 118 	rightStance: 81 	leftStance: 44 
+file name : 69.bvh	keyframes: 0 33 70 108 	doubleStance: 0 108 	rightStance: 70 	leftStance: 33 
+file name : 7.bvh	keyframes: 0 34 69 99 128 162 198 248 	doubleStance: 0 248 	rightStance: 34 99 162 	leftStance: 69 128 198 
+file name : 70.bvh	keyframes: 0 51 86 130 	doubleStance: 0 130 	rightStance: 86 	leftStance: 51 
+file name : 71.bvh	keyframes: 0 30 67 104 	doubleStance: 0 104 	rightStance: 67 	leftStance: 30 
+file name : 72.bvh	keyframes: 0 39 74 114 	doubleStance: 0 114 	rightStance: 74 	leftStance: 39 
+file name : 73.bvh	keyframes: 0 32 67 111 	doubleStance: 0 111 	rightStance: 67 	leftStance: 32 
+file name : 74.bvh	keyframes: 0 25 61 101 	doubleStance: 0 101 	rightStance: 61 	leftStance: 25 
+file name : 75.bvh	keyframes: 0 25 60 95 	doubleStance: 0 95 	rightStance: 60 	leftStance: 25 
+file name : 76.bvh	keyframes: 0 45 78 114 	doubleStance: 0 114 	rightStance: 78 	leftStance: 45 
+file name : 77.bvh	keyframes: 0 34 66 100 	doubleStance: 0 100 	rightStance: 66 	leftStance: 34 
+file name : 78.bvh	keyframes: 0 43 79 119 	doubleStance: 0 119 	rightStance: 79 	leftStance: 43 
+file name : 79.bvh	keyframes: 0 28 62 101 	doubleStance: 0 101 	rightStance: 62 	leftStance: 28 
+file name : 8.bvh	keyframes: 0 28 62 94 129 179 	doubleStance: 0 179 	rightStance: 28 94 	leftStance: 62 129 
+file name : 80.bvh	keyframes: 0 50 81 124 	doubleStance: 0 124 	rightStance: 81 	leftStance: 50 
+file name : 81.bvh	keyframes: 0 25 57 103 	doubleStance: 0 103 	rightStance: 57 	leftStance: 25 
+file name : 82.bvh	keyframes: 0 51 86 133 	doubleStance: 0 133 	rightStance: 86 	leftStance: 51 
+file name : 83.bvh	keyframes: 0 26 61 97 	doubleStance: 0 97 	rightStance: 61 	leftStance: 26 
+file name : 84.bvh	keyframes: 0 35 72 116 	doubleStance: 0 116 	rightStance: 72 	leftStance: 35 
+file name : 85.bvh	keyframes: 0 38 74 139 	doubleStance: 0 139 	rightStance: 74 	leftStance: 38 
+file name : 86.bvh	keyframes: 0 25 60 99 	doubleStance: 0 99 	rightStance: 60 	leftStance: 25 
+file name : 87.bvh	keyframes: 0 28 62 99 	doubleStance: 0 99 	rightStance: 62 	leftStance: 28 
+file name : 88.bvh	keyframes: 0 40 78 123 	doubleStance: 0 123 	rightStance: 78 	leftStance: 40 
+file name : 89.bvh	keyframes: 0 26 60 111 	doubleStance: 0 111 	rightStance: 60 	leftStance: 26 
+file name : 9.bvh	keyframes: 0 33 67 99 134 175 	doubleStance: 0 175 	rightStance: 33 99 	leftStance: 67 134 
+file name : 90.bvh	keyframes: 0 37 79 127 	doubleStance: 0 127 	rightStance: 79 	leftStance: 37 
+file name : 91.bvh	keyframes: 0 42 83 121 	doubleStance: 0 121 	rightStance: 83 	leftStance: 42 
+file name : 92.bvh	keyframes: 0 47 85 131 	doubleStance: 0 131 	rightStance: 85 	leftStance: 47 
